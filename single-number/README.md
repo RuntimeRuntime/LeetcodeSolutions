@@ -21,4 +21,8 @@
 	<li><code>-3 * 10<sup>4</sup> &lt;= nums[i] &lt;= 3 * 10<sup>4</sup></code></li>
 	<li>Each element in the array appears twice except for one element which appears only once.</li>
 </ul>
+
+<p><strong> Notes on solution:</strong></p>
+<p>Tried to do this using a hash table for practice. Not the quickest solution but different to what Id normaly do. Was interesting trying to figure out a way to get the key from the value</p>
+
 </div>
